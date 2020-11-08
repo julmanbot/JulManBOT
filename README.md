@@ -7,6 +7,8 @@
 > **Liens :**
 > *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation)* - *[Support](https://julmanbot.github.io/support)*
 
+### *Pour reporter un bug, [cliquer ici](https://github.com/julmanbot/julmanbot.github.io/issues/new/choose).*
+
 Tu peux nous soutenir, moi et les développeurs, en lâchant ta plus grosse ⭐ sur les repostories !
 
 **Je vous informe que tous les repostories ont une protection qui empêche de les modifier, excepté pour [moi](https://github.io/julmanbot/), même en forcant la(les) modification(s) ou le(s) pull(s) request(s)**
