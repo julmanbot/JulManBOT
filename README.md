@@ -31,7 +31,7 @@ C'est quoi une branche (*branch* en 🇬🇧), c'est un ensemble de fichiers et 
 
 Là, peux-être, tu es dans un repositorie, c'est un truc **très** pratique si vous développer à plusieur sur un même projet, vous pouvez créer une branche où vous pourrer poster des mises à jour sans écraser le code des autres, une fois que vous avez finis, vous créer un pull request pour tout *pousser* vers la branche principale.
 
-> **Merci d'avoir ces lignes !** *(oublie pas l'⭐...*
+> **Merci d'avoir ces lignes !** *(oublie pas l'⭐...*)
 
 > **Liens :**
 > *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation)* - *[Support](https://julmanbot.github.io/support)*
