@@ -7,7 +7,7 @@
 <br />
 
 > **Liens :**
-> *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation)* - *[Support](https://julmanbot.github.io/support)*
+> *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation=true)* - *[Support](https://julmanbot.github.io/support)*
 
 ### *Pour reporter un bug, [cliquer ici](https://github.com/julmanbot/julmanbot.github.io/issues/new/choose).*
 
@@ -36,4 +36,4 @@ Là, peux-être, tu es dans un repositorie, c'est un truc **très** pratique si 
 > **Merci d'avoir ces lignes !** *(oublie pas l'⭐...*)
 
 > **Liens :**
-> *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation)* - *[Support](https://julmanbot.github.io/support)*
+> *[Site](https://julmanbot.github.io/)* - *[Invitation](https://julmanbot.github.io/?invitation=true)* - *[Support](https://julmanbot.github.io/support)*
