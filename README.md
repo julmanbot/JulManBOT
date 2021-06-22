@@ -1,9 +1,8 @@
 # Salut !
 
-<a href="https://status-948.freshstatus.io" id="freshstatus-badge-root"
-  data-banner-style="highlighted">
-  <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=84b64b5a-a6c1-445c-bd90-97cdc622a038" />
-    </a>
+[![](https://public-api.freshstatus.io/v1/public/badge.svg/?badge=84b64b5a-a6c1-445c-bd90-97cdc622a038)](http://status.julman.fr)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=julmanbot&theme=blue-green)]()
 
 <a href="https://github.com/julmanbot/julmanbot.github.io/issues/new/choose" target="_blank">Il y a un problème ?</a>
 
