@@ -1,5 +1,10 @@
 # Salut !
 
+<a href="https://status-948.freshstatus.io" id="freshstatus-badge-root"
+  data-banner-style="highlighted">
+  <img src="https://public-api.freshstatus.io/v1/public/badge.svg/?badge=84b64b5a-a6c1-445c-bd90-97cdc622a038" />
+    </a>
+
 <a href="https://github.com/julmanbot/julmanbot.github.io/issues/new/choose" target="_blank">Il y a un problème ?</a>
 
 [![](https://julmanbot.github.io/favicon.ico)](https://julmanbot.github.io/)
