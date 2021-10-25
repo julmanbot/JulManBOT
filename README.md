@@ -6,8 +6,6 @@
 
 <a href="https://github.com/julmanbot/julmanbot.github.io/issues/new/choose" target="_blank">Il y a un problème ?</a>
 
-[![](https://julmanbot.github.io/favicon.ico)](https://julmanbot.github.io/)
-
 <br />
 
 > **Liens :**
